@@ -18,3 +18,9 @@ Meu nome é Matheus Eduardo França e eu sou:
 - [x] Adobe Illustrator;
 - [x] Adobe XD;
 - [x] Vue.js (e Nuxt.js);
+
+## O que estou aprendendo?
+
+- Python;
+- Php;
+- Laravel.
