@@ -2,7 +2,7 @@
 
 #### **Costumo dizer que meu github é meu currículo!** <br />
 
-Este é o lugar onde me faço e mostro o que sei fazer, o que estou aprendendo ou por curiosidade testando algo.
+Este é o lugar onde me faço, mostro o que sei fazer ou o que estou aprendendo.
 
 <br />
 
@@ -34,6 +34,8 @@ Eu me empenho para ser **Dᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ ғᴜʟʟ-sᴛᴀᴄ�
 
 Algumas linguagem e ferramentas que utilizo e aprendo atualmente.
 
+<code><img alt="Logo da linguagem de marcação HTML5" height="40" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"></code>
+<code><img alt="Logo da linguagem de estilização CSS3" height="40" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
 <code><img alt="Logo da linguagem de programação Javascript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="Logo do Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="Logo da linguagem Mysql" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -44,6 +46,8 @@ Algumas linguagem e ferramentas que utilizo e aprendo atualmente.
 <code><img alt="Logo do framework css Bulma" height="40" src="https://raw.githubusercontent.com/jgthms/bulma/089b430e44710e87b3478078de6246d0de51554c/docs/_includes/svg/bulma-b.svg"></code>
 <code><img alt="Logo do Terminal de código" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img alt="Logo do Visual Studio Code" height="40" src="https://logodix.com/logo/719944.png"></code>
+<code><img alt="Logo do Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img alt="Logo do Github desktop" height="40" src="https://raw.githubusercontent.com/desktop/desktop/development/app/static/logos/256x256.png"></code>
 
 <br />
 
