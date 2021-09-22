@@ -40,7 +40,7 @@ Algumas linguagem e ferramentas que utilizo e aprendo atualmente.
 <code><img alt="Logo do Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="Logo da linguagem Mysql" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img alt="Logo do framework javascript Vue.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img alt="Logo do framework Nuxt.js" height="40" src="https://nuxtjs.org/logos/nuxt.svg"></code>
+<code><img alt="Logo do framework Nuxt.js" height="40" src="https://nuxtjs.org/design-kit/colored-logo.svg"></code>
 <code><img alt="Logo do framework Laravel" height="40" src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png"></code>
 <code><img alt="Logo do framework css tailwindcss" height="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg"></code>
 <code><img alt="Logo do framework css Bulma" height="40" src="https://raw.githubusercontent.com/jgthms/bulma/089b430e44710e87b3478078de6246d0de51554c/docs/_includes/svg/bulma-b.svg"></code>
