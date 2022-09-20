@@ -37,7 +37,6 @@ Eu me empenho para ser **Dᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ ғᴜʟʟ-sᴛᴀᴄ�
 <code><img alt="Logo da linguagem Mysql" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img alt="Logo do framework javascript Vue.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img alt="Logo do framework Laravel" height="40" src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png"></code>
-<code><img alt="Logo do framework css tailwindcss" height="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg"></code>
 
 <br />
 
@@ -45,7 +44,7 @@ Eu me empenho para ser **Dᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ ғᴜʟʟ-sᴛᴀᴄ�
 
 Caso deseje falar sobre qualquer tecnologia, bater um papo descontraído, fazer planos para dominar o mundo ou qualquer coisa do tipo. Basta entrar em contato comigo. (👍 ❛ ᴗ ❛ )👍
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheuseduardofranca/)](https://www.linkedin.com/in/matheusfranca27/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheuseduardofranca/)](https://www.linkedin.com/in/matheuseduardofranca/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCJlJWFlzJJJkFzDtRfhhrXGDvLggrsKVdndbGLwxkMQcHjpLqqjlpjTKLxvzvXJptTWCZVV)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCJlJWFlzJJJkFzDtRfhhrXGDvLggrsKVdndbGLwxkMQcHjpLqqjlpjTKLxvzvXJptTWCZVV)
   
   </div>
