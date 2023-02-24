@@ -11,12 +11,10 @@
 ### Quem é Matheus França?
 
 <div align="justify">
-Olá! Me chamo Matheus Eduardo França, sou estudante de Sistemas para Internet e fascinado por desenvolvimento web desde a primeira vez em que tive contato. Desde então estou sempre estudando e praticando o que para mim não é um trabalho, mas uma paixão.
+Olá! Me chamo Matheus Eduardo França, sou fascinado por desenvolvimento web desde a primeira vez em que tive contato. Desde então estou sempre estudando e praticando o que para mim não é um trabalho, mas uma paixão.
 
-Gosto muito de aprender e compartilhar conhecimento. Ter ideias que façam a diferença e planejar soluções que contribuam com pensamentos para tornar um **mundo melhor** para todos.
+Gosto muito de aprender e compartilhar conhecimento. Ter ideias que façam a diferença e planejar soluções que contribuam para tornar um **mundo melhor** para todos.
   </div>
-
-Eu me empenho para ser **Dᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ ғᴜʟʟ-sᴛᴀᴄᴋ.** ツ
 
 <br />
 
